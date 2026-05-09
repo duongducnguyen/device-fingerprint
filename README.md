@@ -5,8 +5,6 @@
 
 **Languages / 语言 / Языки:** [English](#english) · [中文](#中文) · [Русский](#русский)
 
-Latest signed APK: [`releases/device-fingerprint-v1.0.0.apk`](releases/device-fingerprint-v1.0.0.apk)
-
 ---
 
 ## English
@@ -44,13 +42,6 @@ Additional capabilities:
 - Android **9.0** (API 28) or newer
 - Architectures: `arm64-v8a`, `armeabi-v7a`, `x86_64`, `x86`
 - Approx. 5 MB free storage
-
-### Installation
-
-1. Download [`releases/device-fingerprint-v1.0.0.apk`](releases/device-fingerprint-v1.0.0.apk).
-2. On your Android device, enable **Install unknown apps** for the browser/file manager you used.
-3. Open the APK and tap **Install**.
-4. Grant the runtime permissions when prompted — the app will list which signals each permission unlocks.
 
 ### Permissions
 
@@ -108,13 +99,6 @@ This tool is published for **research, education, and self-audit** only. It is n
 - 支持架构：`arm64-v8a`、`armeabi-v7a`、`x86_64`、`x86`
 - 约需 5 MB 存储空间
 
-### 安装步骤
-
-1. 下载 [`releases/device-fingerprint-v1.0.0.apk`](releases/device-fingerprint-v1.0.0.apk)。
-2. 在 Android 设备上为所用的浏览器或文件管理器开启 **允许安装未知应用**。
-3. 打开 APK，点击 **安装**。
-4. 应用启动后按提示授予运行时权限——每个权限对应解锁的功能会有说明。
-
 ### 权限说明
 
 清单文件共声明 16 项权限，覆盖电话状态、网络适配器、定位、联系人与广告 ID：
@@ -170,13 +154,6 @@ This tool is published for **research, education, and self-audit** only. It is n
 - Android **9.0** (API 28) или новее
 - Архитектуры: `arm64-v8a`, `armeabi-v7a`, `x86_64`, `x86`
 - Около 5 МБ свободной памяти
-
-### Установка
-
-1. Скачайте [`releases/device-fingerprint-v1.0.0.apk`](releases/device-fingerprint-v1.0.0.apk).
-2. На устройстве Android включите **«Установка из неизвестных источников»** для браузера или файлового менеджера, через который вы открываете APK.
-3. Откройте APK и нажмите **«Установить»**.
-4. Предоставьте runtime-разрешения по запросу — приложение покажет, какие сигналы открывает каждое разрешение.
 
 ### Разрешения
 
